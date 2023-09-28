@@ -11,7 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing).
+- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Description
