@@ -58,13 +58,13 @@ Follow these steps to set up and run the application:
 2. Build the project: Right-click on the project in NetBeans and select "Build."
 3. Run the application: Right-click on the project in NetBeans and select "Run."
 
-### Usage
+## Usage
 Once the application is running:
 
 Launch the application to access the GUI.
 Use the intuitive interface to perform CRUD operations on the dataset.
 
-### Contributing
+## Contributing
 Contributions are welcome and encouraged! To contribute to this project:
 
 Fork the repository.
@@ -73,7 +73,7 @@ Commit your changes: git commit -m 'Add feature-name'
 Push to your fork: git push origin feature-name
 Submit a pull request.
 
-### Contact
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
 Vigneshwaran
